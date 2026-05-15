@@ -1,7 +1,7 @@
 # 👋 Hola, soy Jorge — Tech Lead & Senior Data Engineer
 
 Soy Ingeniero Civil Informático y actualmente trabajo como **Tech Lead y Senior Data Engineer**, liderando iniciativas de arquitectura, automatización y modernización de plataformas de datos.  
-Tengo más de 2 años de experiencia construyendo soluciones en **Databricks, Delta Lake, Spark, AWS y Power BI**, con foco en performance, gobernanza y escalabilidad.
+Tengo más de 3 años de experiencia construyendo soluciones en **Databricks, Delta Lake, Spark, AWS y Power BI**, con foco en performance, gobernanza y escalabilidad.
 
 ---
 
@@ -11,7 +11,6 @@ Tengo más de 2 años de experiencia construyendo soluciones en **Databricks, De
 - Especialista en **Databricks (Delta, Unity Catalog, SQL Warehouses, Jobs)**  
 - Fuerte en **automatización, APIs, monitoreo y observabilidad**  
 - Enfocado en buenas prácticas, calidad de datos y diseño escalable  
-- Actualmente preparándome para certificaciones de **Databricks** y **AWS**
 
 ---
 
@@ -69,8 +68,7 @@ Tengo más de 2 años de experiencia construyendo soluciones en **Databricks, De
 ---
 
 ## 📫 Contacto
-- **GitHub:** *este repositorio*  
-- **LinkedIn:** *(agrega tu enlace aquí)*  
+- **LinkedIn:** https://www.linkedin.com/in/jorge-valdes-flores-775b8b1a4/
 
 ---
 
