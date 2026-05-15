@@ -1,76 +1,115 @@
-# 👋 Hola, soy Jorge — Tech Lead & Senior Data Engineer
+👋 Hola, soy Jorge — Tech Lead & Senior Data Engineer
 
-Soy Ingeniero Civil Informático y actualmente trabajo como **Tech Lead y Senior Data Engineer**, liderando iniciativas de arquitectura, automatización y modernización de plataformas de datos.  
-Tengo más de 3 años de experiencia construyendo soluciones en **Databricks, Delta Lake, Spark, AWS y Power BI**, con foco en performance, gobernanza y escalabilidad.
+Soy Ingeniero Civil Informático con más de 4 años de experiencia construyendo soluciones de datos en entornos cloud, liderando iniciativas de arquitectura, automatización y modernización de plataformas analíticas. Me especializo en Databricks, Spark, AWS, GCP y Azure, con un enfoque fuerte en performance, gobernanza y escalabilidad.
 
----
+🚀 Sobre mí
 
-## 🚀 Sobre mí
-- Tech Lead en un equipo de analítica y datos  
-- Experiencia en **arquitectura Lakehouse**, pipelines ETL/ELT y orquestación  
-- Especialista en **Databricks (Delta, Unity Catalog, SQL Warehouses, Jobs)**  
-- Fuerte en **automatización, APIs, monitoreo y observabilidad**  
-- Enfocado en buenas prácticas, calidad de datos y diseño escalable  
+Tech Lead en proyectos de analítica y datos para Cencosud.
 
----
+Experiencia en arquitectura Lakehouse, ETL/ELT y orquestación.
 
-## 🛠️ Tecnologías y herramientas
-### **Data Engineering**
-- Databricks (Spark, Delta Lake, Unity Catalog, SQL Warehouses)
-- Apache Spark (PySpark)
-- AWS (S3, IAM, Lambda, Glue)
-- SQL (T-SQL, Databricks SQL)
-- Python para automatización y pipelines
+Especialista en Databricks (Delta, Unity Catalog, SQL Warehouses, Jobs).
 
-### **Orquestación & DevOps**
-- Databricks Workflows
-- GitHub Actions
-- CI/CD para pipelines de datos
-- Infraestructura modular y gobernanza
+Fuerte en automatización, APIs, monitoreo y observabilidad.
 
-### **Visualización & BI**
-- Power BI (semantic models, refresh monitoring)
-- Dashboards ejecutivos y analítica operacional
+Experiencia en Retail, Banca y Salud.
 
----
+Actualmente preparándome para certificaciones de Databricks y AWS.
 
-## 📌 Proyectos destacados
-- **Consolidación de datamarts corporativos**  
-  Diseño y migración hacia arquitectura Lakehouse con Delta Lake y Unity Catalog.
+🛠️ Tecnologías y herramientas
 
-- **Automatización de monitoreo de Power BI**  
-  Extracción de métricas de refresh vía API + dashboards de observabilidad.
+Data Engineering
 
-- **Optimización de costos en Databricks**  
-  Ajuste de SQL Warehouses, autoscaling, Z-Ordering y optimización de tablas Delta.
+Databricks (Spark, Delta Lake, Unity Catalog, SQL Warehouses)
 
-- **Pipelines productivos en Databricks**  
-  ETL/ELT robustos con Workflows, control de calidad y versionamiento.
+Apache Spark (PySpark, Huemul)
 
----
+AWS (Redshift, Cloud9, S3)
 
-## 🎯 Certificaciones (actuales y en progreso)
-- **AWS Cloud Practitioner** (en preparación)  
-- **Databricks Data Engineer Associate** (en preparación)  
-- Próximas:  
-  - Databricks Data Engineer Professional  
-  - Generative AI Engineer Associate  
+GCP (Dataproc, Cloud Storage)
 
----
+Azure (Synapse, Data Factory, DevOps)
 
-## 📚 Intereses
-- Arquitectura de datos  
-- Lakehouse y plataformas modernas  
-- Optimización de performance  
-- Automatización y buenas prácticas  
-- Liderazgo técnico y mentoring  
+SQL (T-SQL, Databricks SQL)
 
----
+Python para automatización y pipelines
 
-## 📫 Contacto
-- **LinkedIn:** https://www.linkedin.com/in/jorge-valdes-flores-775b8b1a4/
+Orquestación & DevOps
 
----
+Databricks Workflows
 
-### ✨ Gracias por visitar mi perfil
-Siempre estoy aprendiendo, construyendo y compartiendo soluciones relacionadas al mundo de datos.
+Azure DevOps
+
+GitHub Actions
+
+CI/CD para pipelines de datos
+
+Visualización & BI
+
+Power BI (semantic models, refresh monitoring)
+
+Dashboards ejecutivos y analítica operacional
+
+📌 Experiencia reciente (últimos 3 años)
+
+Tech Lead — SEIDOR (2026 - Actualidad)
+
+Cliente: Cencosud
+
+Diseño e implementación de soluciones de datos en la nube.
+
+Automatización de pipelines y optimización de performance.
+
+Liderazgo técnico y acompañamiento al equipo.
+
+Data Engineer — SEIDOR Analytics (2024 - 2026)
+
+Cliente: Cencosud
+
+Diseño y construcción de pipelines en Databricks.
+
+Procesamiento y almacenamiento eficiente de datos.
+
+Data Engineer — Soluciones Data & Analytics (2021 - 2024)
+
+Proyectos destacados:
+
+AMIS: Solución cloud para campañas.
+
+Cencosud: Migración Teradata → Redshift.
+
+Banco de Chile: Ingesta y procesamiento con Spark + GCP.
+
+🎯 Certificaciones
+
+Leveraging Unstructured Data with Cloud Dataproc (GCP)
+
+Teletrabajo
+
+Comunicación, inteligencia emocional y presencia ejecutiva
+
+En preparación: Databricks Data Engineer Associate, AWS Cloud Practitioner
+
+📚 Intereses
+
+Arquitectura de datos
+
+Lakehouse y plataformas modernas
+
+Optimización de performance
+
+Automatización y buenas prácticas
+
+Liderazgo técnico y mentoring
+
+📫 Contacto
+
+Email: jorgeignaciovaldesflores@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/jorge-valdes-flores-775b8b1a4
+
+📊 Línea de tiempo profesional
+
+El gráfico generado muestra tu evolución desde práctica hasta Tech Lead entre 2020 y 2026.
+
+Gracias por visitar mi perfil. Siempre estoy aprendiendo, construyendo y compartiendo soluciones relacionadas al mundo de datos.
